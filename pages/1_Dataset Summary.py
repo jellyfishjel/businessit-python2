@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 # ==== Page Config (nên đặt ở đầu) ====
-st.set_page_config(page_title="Education & Career Success", layout="wide")
+st.set_page_config(page_title="Data Summary", layout="wide")
 
 # ==== Load dataset with caching ====
 @st.cache_data
