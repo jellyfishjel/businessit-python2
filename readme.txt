@@ -13,6 +13,6 @@ Key Features:
 
 
 The app is deployed online and accessible via this link:
-https://bussinessit2-python2.streamlit.app/
+https://educationcareersuccess-web.streamlit.app/
 
 Thank you for reviewing this project.
