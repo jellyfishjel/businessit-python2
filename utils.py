@@ -1,6 +1,6 @@
 import streamlit as st
 
-# ========== Áp dụng font và CSS toàn cục ==========
+
 def apply_global_styles():
     st.markdown("""
         <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
@@ -22,7 +22,7 @@ def apply_global_styles():
                 color: white !important;
             }
 
-            /* Phần hiển thị đã chọn */
+   
             div[data-baseweb="select"] > div {
                 background-color: #FFF3E0 !important;
                 border: 2px solid #cf5a2e !important;
