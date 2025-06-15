@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # ==== Page Config ====
-st.set_page_config(page_title="Education & Career Success", layout="wide")
+st.set_page_config(page_title="Displayed Code", layout="wide")
 
 # ==== Global Styles ====
 from utils import apply_global_styles
