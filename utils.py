@@ -24,7 +24,7 @@ def apply_global_styles():
 
    
             div[data-baseweb="select"] > div {
-                background-color: #fadfdd !important;
+                background-color: #d9d0c1 !important;
                 border: 2px solid #cf5a2e !important;
                 color: #333 !important;
             }
