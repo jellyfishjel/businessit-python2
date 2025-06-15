@@ -267,8 +267,7 @@ with graph_tab[0]:
                 title={
                     'text': f"{group_col.replace('_', ' ')} Distribution (Donut Chart)",
                     'x': 0.5,
-                    'xanchor': 'center',
-                    'font': dict(size=18, color='#333')
+                    'xanchor': 'center'
                 },
                 legend=dict(
                     orientation='h',
